@@ -9,4 +9,5 @@ This program is a system that scrapes product information from the [Vatan Bilgis
 ### Kazınan Verilerin Excel Görüntüsü (Excel View of Scraped Data)
 ![Excel Screen Shot-1](https://github.com/user-attachments/assets/c4081704-cd63-4b00-8940-0224338c388b)
 
-![Excel Screen Shot-2] (https://github.com/user-attachments/assets/0692a9bb-00e9-41c3-9267-320e3bbdc3a3)
+![Excel Screen Shot-2](https://github.com/user-attachments/assets/2cd4de22-cd6f-49f7-98bf-6c1a022f816e)
+
